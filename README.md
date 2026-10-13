@@ -115,11 +115,6 @@ wiederhergestellt. Es werden keine Daten an einen Server übertragen.
   von Hand.
 - **Projekt speichern / laden** – als `.json`, um später weiterzuarbeiten.
 
-## Hinweis zur Norm
-Die Darstellung folgt der klassischen **Weg-Schritt-Diagramm-Optik** (angelehnt an VDI 3260).
-Das ist bewusst **nicht** GRAFCET (DIN EN 60848), das eine völlig andere Darstellung mit
-Schritt-Kästchen und Transitionen verwendet.
-
 ## Lizenz
 © Müller Martini – veröffentlicht unter der [MIT-Lizenz](LICENSE).
 
