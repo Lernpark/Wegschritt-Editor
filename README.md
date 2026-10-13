@@ -3,13 +3,17 @@
 Ein eigenständiger Editor zum Zeichnen von **Funktionsdiagrammen / Weg-Schritt-Diagrammen**
 (Aktorbewegung über Schritte + Signal-/Steuerteil) mit **SVG- und PNG-Export**.
 
+**▶ Direkt im Browser öffnen: <https://lernpark.github.io/Wegschritt-Editor/wegschritt-editor.html>**
+
 ![Editor mit Beispieldiagramm: zwei Aktoren, Signalglieder und UND-Verknüpfung](docs/screenshots/uebersicht.png)
 
 ## Starten
-Datei **`wegschritt-editor.html`** per Doppelklick im Browser öffnen
-(Chrome, Edge, Firefox). Keine Installation, kein Internet nötig – läuft komplett offline.
+- **Online:** obigen Link öffnen – keine Installation nötig.
+- **Offline:** Datei **`wegschritt-editor.html`** herunterladen und per Doppelklick im
+  Browser öffnen (Chrome, Edge, Firefox). Kein Internet nötig.
+
 Die Arbeit wird automatisch im Browser zwischengespeichert und beim nächsten Öffnen
-wiederhergestellt.
+wiederhergestellt. Es werden keine Daten an einen Server übertragen.
 
 ## Aufbau des Fensters
 - **Links:** Werkzeugleiste (Auswählen, Linie, Signalglieder, Verknüpfungen, Text).
@@ -119,6 +123,7 @@ Schritt-Kästchen und Transitionen verwendet.
 ## Lizenz
 © Müller Martini – veröffentlicht unter der [MIT-Lizenz](LICENSE).
 
-In `wegschritt-editor.html` sind folgende Fremdkomponenten eingebettet:
+In `wegschritt-editor.html` sind folgende Fremdkomponenten eingebettet
+(Lizenztexte siehe [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)):
 - [opentype.js](https://github.com/opentypejs/opentype.js) – MIT-Lizenz, © Frederik De Bleser
 - Schrift [Roboto](https://github.com/googlefonts/roboto) – Apache-Lizenz 2.0, © Google Inc.
