@@ -1,0 +1,12 @@
+# Office-/Editor-Temp-Dateien
+~$*
+*.tmp
+Thumbs.db
+.DS_Store
+.vscode/
+
+# Word-Version der Anleitung (nur lokal)
+Anleitung.docx
+
+# Logos (vom Editor nicht verwendet, nicht veröffentlichen)
+assets/
